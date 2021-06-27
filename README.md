@@ -1,3 +1,3 @@
 # tugas2_js
 
-![tugas 2 javascript](img/tgs2.png)
+![tugas2javascript](img/tg2.png)
